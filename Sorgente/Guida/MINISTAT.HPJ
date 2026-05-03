@@ -1,0 +1,16 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+ERRORLOG=ministat.err
+LCID=0x410 0x0 0x0 ; Italiano (standard)
+REPORT=Yes
+TITLE=Guida di Ministat 1.1 (32 bit)
+COPYRIGHT=Guida di Ministat (C) 2000, ver 1.1.3216
+BMROOT=c:\ministat\sorgente\guida
+HLP=Ministat.hlp
+
+[FILES]
+MINISTAT.rtf
+
+[WINDOWS]
+main="Guida di Ministat",(0,0,1023,1023),1,,(r12632256)
