@@ -1,1 +1,1 @@
-Sorgente, eseguibile e ISO dell'installazione di Ministat. peogramma di statistica scritto con una delle prime versioni di VisualBasic e ancora funzionante (eccetto l'help) con Windows 11.
+Sorgente, eseguibile e ISO dell'installazione di Ministat. programma di statistica scritto con una delle prime versioni di VisualBasic e ancora funzionante (eccetto l'help) con Windows 11. Orientato al campo biomedico, include anche la statistica bayesiana (sensibilità, specificità, valore predittivo e curve ROC).
