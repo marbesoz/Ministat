@@ -1,3 +1,3 @@
-Sorgente, file di installazione e ISO dell'installazione di Ministat, programma di statistica scritto con una delle prime versioni di VisualBasic e ancora funzionante (eccetto l'help) con Windows 11, ma funziona anche l'help su una macchina virtuale Windows 2000 o Windows Xp realizzata con VirtualBox.
-Orientato al campo biomedico, Ministat include anche la statistica bayesiana (sensibilità, specificità, valore predittivo e curve ROC).
+Sorgente, file di installazione e ISO dell'installazione di Ministat, programma di statistica scritto con una delle prime versioni di VisualBasic e ancora funzionante (eccetto l'help) con Windows 11, ma funziona anche l'help su una macchina virtuale Windows 2000 o Windows Xp realizzata con VirtualBox.  
+Orientato al campo biomedico, Ministat include anche la statistica bayesiana (sensibilità, specificità, valore predittivo e curve ROC).  
 Il sorgente contiene il progetto VB ed è stato verificato che su entrambe le macchine citate viene correttamente compilato con Visual Basic 5.
